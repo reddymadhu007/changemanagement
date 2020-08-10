@@ -59,6 +59,6 @@ for  online deploy on remix ide (online browser) https://remix.ethereum.org/
 
   -- address:it will display all the ethereum adress participated in that topic.  
 
-  -- approval score : if approval score is positive then majority users have voted positively
+  -- approval score : if approval score is positive then majority users have given feedback positively
                       
-                      if approval score is negative then majority users have vted positvely. 
+                      if approval score is negative then majority users have given feedback negatively. 
